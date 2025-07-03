@@ -1,0 +1,14 @@
+{
+  "name": "savior",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.6",
+    "@types/bun": "latest",
+    "tsdown": "^0.12.9"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
